@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265193445997",
+    "project_id": "healthcare-awareness",
+    "storage_bucket": "healthcare-awareness.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265193445997:android:28db4f2699de8354597d64",
+        "android_client_info": {
+          "package_name": "com.example.gramcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdK09SO6LJAexaiSG10Ued50U7E6FRRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265193445997:android:c410283058531b99597d64",
+        "android_client_info": {
+          "package_name": "com.example.healthcareawareness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdK09SO6LJAexaiSG10Ued50U7E6FRRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
